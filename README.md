@@ -1,6 +1,6 @@
 # Real Estate NFT DApp
 
-## Technology Stack & Tools
+## Technology Stack and Tools
 
 - Solidity (Writing Smart Contracts & Tests)
 - Javascript (React & Testing)
